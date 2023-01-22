@@ -1,0 +1,322 @@
+{
+  "must not do (spoken Japanese)": [
+    "ちゃいけない・じゃいけない",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a1%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-%e3%81%98%e3%82%83%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-cha-ikenai-ja-dame/"
+  ],
+  "to be (am, is, are, were, used to)": [
+    "だ / です",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0-da-%e3%81%a7%e3%81%99-desu-meaning/"
+  ],
+  "only; just; as much as~": [
+    "だけ",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a0%e3%81%91-dake-meaning/"
+  ],
+  "I think; it seems; probably; right?": [
+    "でしょう",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%81%97%e3%82%87%e3%81%86-deshou-meaning/"
+  ],
+  "in; at; on; by; with; via": [
+    "で",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7-de-particle-meaning/"
+  ],
+  "but; however; though~": [
+    "でも",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a7%e3%82%82-demo-meaning/"
+  ],
+  "what kind of; what sort of": [
+    "どんな",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%82%93%e3%81%aa-donna-meaning/"
+  ],
+  "why; for what reason; how": [
+    "どうして",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%81%97%e3%81%a6-doushite-meaning/"
+  ],
+  "how; in what way; by what means​": [
+    "どうやって",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a9%e3%81%86%e3%82%84%e3%81%a3%e3%81%a6-douyatte-meaning/"
+  ],
+  "subject marker; however; but ~": [
+    "が",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c-ga-subject-marker-particle/"
+  ],
+  "there is; is (non-living things)": [
+    "があります",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%82%e3%82%8a%e3%81%be%e3%81%99-ga-arimasu-%e3%81%8c%e3%81%82%e3%82%8b-ga-aru-meaning/"
+  ],
+  "to want something": [
+    "がほしい",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%bb%e3%81%97%e3%81%84-ga-hoshii-%e3%81%8c%e6%ac%b2%e3%81%97%e3%81%84-meaning/"
+  ],
+  "there is; to be; is (living things)": [
+    "がいます",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8c%e3%81%84%e3%81%be%e3%81%99-ga-imasu-%e3%81%8c%e3%81%84%e3%82%8b-ga-iru-meaning/"
+  ],
+  "had better; it'd be better to; should ~": [
+    "ほうがいい",
+    "https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9%e3%81%8c%e3%81%84%e3%81%84-%e3%81%bb%e3%81%86%e3%81%8c%e3%81%84%e3%81%84-hou-ga-ii-meaning/"
+  ],
+  "i-adjectives": [
+    "い-adjectives",
+    "https://jlptsensei.com/learn-japanese-grammar/japanese-%e3%81%84-adjectives-%e3%81%84%e5%bd%a2%e5%ae%b9%e8%a9%9e-meaning/"
+  ],
+  "the most; the best": [
+    "一番（いちばん）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%95%aa-%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-ichiban-meaning/"
+  ],
+  "together": [
+    "一緒に（いっしょに）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e4%b8%80%e7%b7%92%e3%81%ab-%e3%81%84%e3%81%a3%e3%81%97%e3%82%87%e3%81%ab-issho-ni-meaning/"
+  ],
+  "always; usually; habitually": [
+    "いつも",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%84%e3%81%a4%e3%82%82-itsumo-meaning/"
+  ],
+  "to not be (am not; is not; are not)": [
+    "じゃない・ではない",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%98%e3%82%83%e3%81%aa%e3%81%84-janai-%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84-dewa-nai-meaning/"
+  ],
+  "question particle": [
+    "か",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b-ka-question-particle-meaning/"
+  ],
+  "or": [
+    "か～か",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%ef%bd%9e%e3%81%8b-ka-ka-or-meaning/"
+  ],
+  "because; since; from": [
+    "から",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%8b%e3%82%89-kara-meaning/"
+  ],
+  "the way of doing something; how to do": [
+    "方（かた）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning/"
+  ],
+  "but; however; although ~": [
+    "けれども",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%91%e3%82%8c%e3%81%a9%e3%82%82-keredo-mo-meaning/"
+  ],
+  "still; not yet": [
+    "まだ",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0-mada-meaning/"
+  ],
+  "have not yet ~": [
+    "まだ～ていません",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a0%ef%bd%9e%e3%81%a6%e3%81%84%e3%81%be%e3%81%9b%e3%82%93-mada-te-imasen-meaning/"
+  ],
+  "until; as far as; to (an extent); even ~": [
+    "まで",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%a7-made-meaning/"
+  ],
+  "before; in front of~": [
+    "前に（まえに）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e5%89%8d%e3%81%ab-%e3%81%be%e3%81%88%e3%81%ab-mae-ni-meaning/"
+  ],
+  "would you; do you want to; shall we ~": [
+    "ませんか",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b-masen-ka-meaning/"
+  ],
+  "let's ~; shall we ~": [
+    "ましょう",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86-mashou-meaning/"
+  ],
+  "shall I ~; used to offer help to the listener": [
+    "ましょうか",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%be%e3%81%97%e3%82%87%e3%81%86%e3%81%8b-mashouka-meaning/"
+  ],
+  "too; also; as well": [
+    "も",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%82-mo-particle-meaning/"
+  ],
+  "already; anymore; again; other": [
+    "もう",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%82%e3%81%86-mou-meaning/"
+  ],
+  "na-adjectives": [
+    "な-adjectives",
+    "https://jlptsensei.com/learn-japanese-grammar/japanese-%e3%81%aa-adjectives-%e3%81%aa%e5%bd%a2%e5%ae%b9%e8%a9%9e-meaning/"
+  ],
+  "sentence ending particle; confirmation; admiration, etc": [
+    "なあ",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%82-naa-sentence-ending-particle-meaning/"
+  ],
+  "without doing~ ; To do [B] without doing [A]": [
+    "ないで",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7-naide-meaning/"
+  ],
+  "please don't do": [
+    "ないでください",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a7%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-naide-kudasai-meaning/"
+  ],
+  "must do; have an obligation to do": [
+    "ないといけない",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%84%e3%81%a8%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-naito-ikenai-meaning/"
+  ],
+  "don't have to": [
+    "なくてもいい",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%82%e3%81%84%e3%81%84-naku-temo-ii-meaning/"
+  ],
+  "must do; need to; gotta do": [
+    "なくちゃ",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a1%e3%82%83-%e3%83%80%e3%83%a1-nakucha-dame-meaning/"
+  ],
+  "must do; need to do": [
+    "なくてはならない",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%81%8f%e3%81%a6%e3%81%af%e3%81%aa%e3%82%89%e3%81%aa%e3%81%84-nakute-wa-naranai-meaning/"
+  ],
+  "to become": [
+    "なる",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%aa%e3%82%8b-naru-meaning/"
+  ],
+  "to explain something; show emphasis": [
+    "のです",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7%e3%81%99-no-desu-%e3%81%ae%e3%81%a0-noda-meaning/"
+  ],
+  "isn't it? right? eh?": [
+    "ね",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ad-ne-particle-meaning/"
+  ],
+  "destination particle; in; at; on; to": [
+    "に",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-ni-destination-particle-meaning/"
+  ],
+  "go to do": [
+    "にいく",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%ab%e3%81%84%e3%81%8f-ni-iku-meaning/"
+  ],
+  "to decide on": [
+    "にする",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab%e3%81%99%e3%82%8b-ni-suru-meaning/"
+  ],
+  "to (indicates direction / destination)": [
+    "に/へ",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ab-%e3%81%b8-ni-e-directional-particle-meaning/"
+  ],
+  "possessive particle": [
+    "の",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae-no-possessive-particle-meaning/"
+  ],
+  "to be bad at doing something": [
+    "のが下手（のがへた）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e4%b8%8b%e6%89%8b-%e3%81%ae%e3%81%8c%e3%81%b8%e3%81%9f-no-ga-heta-meaning/"
+  ],
+  "to be good at": [
+    "のが上手（のがじょうず）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e4%b8%8a%e6%89%8b-no-ga-jouzu-%e3%81%ae%e3%81%8c%e3%81%98%e3%82%87%e3%81%86%e3%81%9a%e3%81%a7%e3%81%99-meaning/"
+  ],
+  "to like doing something": [
+    "のが好き（のがすき）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%8c%e5%a5%bd%e3%81%8d-no-ga-suki-%e3%81%ae%e3%81%8c%e3%81%99%e3%81%8d%e3%81%a7%e3%81%99-meaning/"
+  ],
+  "out of this group, [A] is best": [
+    "の中で[A]が一番（のなかで[A]がいちばん）",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e4%b8%ad%e3%81%a7%e3%81%8c%e4%b8%80%e7%95%aa-%e3%81%ae%e3%81%aa%e3%81%8b%e3%81%a7%e3%81%8c%e3%81%84%e3%81%a1%e3%81%b0%e3%82%93-no-naka-de-ga-ichiban-meaning/"
+  ],
+  "because of; given that; since": [
+    "ので",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%ae%e3%81%a7-node-meaning/"
+  ],
+  "polite marker; honorific prefix particle": [
+    "お / ご",
+    "https://jlptsensei.com/learn-japanese-grammar/%e5%be%a1-%e3%81%8a-%e3%81%94-o-go-polite-marker-particle-meaning/"
+  ],
+  "object marker particle": [
+    "を",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%92-wo-object-marker-meaning/"
+  ],
+  "please give me ~": [
+    "をください",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%92%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-o-kudasai-meaning/"
+  ],
+  "but; however ~": [
+    "しかし",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%97%e3%81%8b%e3%81%97-shikashi-meaning/"
+  ],
+  "and; and then; after that; since then": [
+    "それから",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%82%8c%e3%81%8b%e3%82%89-sore-kara-meaning/"
+  ],
+  "and; and then; thus; and now ~": [
+    "そして",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%9d%e3%81%97%e3%81%a6-soshite-meaning/"
+  ],
+  "too much": [
+    "すぎる",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%99%e3%81%8e%e3%82%8b-sugiru-%e9%81%8e%e3%81%8e%e3%82%8b-meaning/"
+  ],
+  "to have done something before": [
+    "たことがある",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%93%e3%81%a8%e3%81%8c%e3%81%82%e3%82%8b-ta-koto-ga-aru-meaning/"
+  ],
+  "want to do something": [
+    "たい",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%81%84-tai-meaning/"
+  ],
+  "do such things as A and B": [
+    "たり～たり",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%9f%e3%82%8a%ef%bd%9e%e3%81%9f%e3%82%8a%e3%81%99%e3%82%8b-tari-tari-suru-meaning/"
+  ],
+  "is/has been done (resulting state)": [
+    "てある",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%82%e3%82%8b-te-aru-meaning/"
+  ],
+  "ongoing action or current state": [
+    "ている",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%84%e3%82%8b-te-iru-meaning/"
+  ],
+  "after doing ~": [
+    "てから",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8b%e3%82%89-te-kara-meaning/"
+  ],
+  "please do": [
+    "てください",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-te-kudasai-meaning/"
+  ],
+  "must not; may not; cannot": [
+    "てはいけない",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%81%af%e3%81%84%e3%81%91%e3%81%aa%e3%81%84-te-wa-ikenai-meaning/"
+  ],
+  "is OK to ~; is alright to ~; may I ~?": [
+    "てもいいです",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a6%e3%82%82%e3%81%84%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b-temo-ii-desu-ka-meaning/"
+  ],
+  "and; with; as; connecting particle": [
+    "と",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8-to-particle-meaning/"
+  ],
+  "when; at this time": [
+    "とき",
+    "https://jlptsensei.com/learn-japanese-grammar/%e6%99%82-%e3%81%a8%e3%81%8d-toki-meaning/"
+  ],
+  "very; awfully; exceedingly​": [
+    "とても",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a8%e3%81%a6%e3%82%82-totemo-meaning/"
+  ],
+  "plan to ~; intend to ~": [
+    "つもり",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%a4%e3%82%82%e3%82%8a-tsumori-meaning/"
+  ],
+  "topic marker": [
+    "は",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%af-wa-topic-marker-meaning/"
+  ],
+  "[A] is more ~ than [B]": [
+    "は〜より・・・です",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%80%9c%e3%82%88%e3%82%8a-%e3%81%a7%e3%81%99-wa-yori-desu-meaning/"
+  ],
+  "how about; how is": [
+    "はどうですか",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%81%af%e3%81%a9%e3%81%86%e3%81%a7%e3%81%99%e3%81%8b-wa-dou-desu-ka-meaning/"
+  ],
+  "and; or; connecting particle": [
+    "や",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%84-ya-particle-meaning/"
+  ],
+  "you know; emphasis (ending particle)": [
+    "よ",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%88-yo-ending-particle-meaning/"
+  ],
+  "[A] is more than [B]": [
+    "より～ほうが",
+    "https://jlptsensei.com/learn-japanese-grammar/%e3%82%88%e3%82%8a%ef%bd%9e%e3%81%ae%e3%81%bb%e3%81%86%e3%81%8c-yori-no-hou-ga-meaning/"
+  ]
+}
